@@ -1,0 +1,16 @@
+.env
+CLIENT_URL=http://localhost:5174
+PORT=5000
+MONGO_URI=mongodb+srv://kog151603:Ankn112233@cluster0.alpo2k8.mongodb.net/
+CLOUDINARY_CLOUD_NAME=dsskydynk
+CLOUDINARY_API_KEY=118363483736986
+CLOUDINARY_API_SECRET=bb0kpV8OJzxpBAOeF5aEt1T9A34
+PAYPAL_CLIENT_ID=AV0KM0yEXqLnDjy9xI0OHP8kj3S0J5OFrJAUycbXbZxxJZHtoQAufljNT2RUUKU7BqDzBu6GR2whrPdJ
+PAYPAL_SECRET_ID=EDnmQLGaQRT0JMLwdfqfvHENy-8zqN2n5EUWi8wnYCVJqhoYcPNUFTvhnulOeINR_h_EOl2BtflpsD_H
+
+account and password Admin
+admin@gmail.com
+123456
+paypal sanbox sign in 
+sb-m3nax36583828@personal.example.com
+gJ#y*hk8
